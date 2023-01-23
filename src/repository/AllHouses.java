@@ -1,4 +1,9 @@
-package entity;
+package repository;
+
+import entity.House;
+import entity.HouseType;
+import entity.Summerhouse;
+import entity.Villa;
 
 import java.util.ArrayList;
 import java.util.List;

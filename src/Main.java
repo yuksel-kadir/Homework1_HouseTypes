@@ -1,4 +1,4 @@
-import entity.AllHouses;
+import repository.AllHouses;
 import service.RealtorService;
 
 public class Main {
