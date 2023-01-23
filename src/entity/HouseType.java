@@ -55,4 +55,14 @@ public abstract class HouseType {
         this.area = area;
     }
 
+    @Override
+    public String toString() {
+        return
+                "price=" + price +
+                        ", numberOfRooms=" + numberOfRooms +
+                        ", numberOfLivingRooms=" + numberOfLivingRooms +
+                        ", area=" + area +
+                        ", houseName='" + houseName + '\''
+                ;
+    }
 }
