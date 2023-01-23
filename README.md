@@ -1,5 +1,5 @@
 # Definex Java Spring Practicum First Homework - House Types
-
+### Requirements
 - Create 3 House Types -> House, Villa, Summer House
 - Create a class includes three instance of each house types and  "getHouseList", "getVillaList" and "getSummerhouseList" functions.
 - Create a service includes given methods:
