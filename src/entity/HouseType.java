@@ -6,6 +6,7 @@ public abstract class HouseType {
     private int numberOfLivingRooms;
     private int area;
     private String houseName;
+
     public HouseType(int price, int numberOfRooms, int numberOfLivingRooms, int area, String houseName) {
         this.price = price;
         this.numberOfRooms = numberOfRooms;
@@ -18,7 +19,7 @@ public abstract class HouseType {
         return houseName;
     }
 
-    public void setHouseName(String houseName){
+    public void setHouseName(String houseName) {
         this.houseName = houseName;
     }
 
