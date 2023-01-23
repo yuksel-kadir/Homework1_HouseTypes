@@ -17,3 +17,6 @@
 - Design in accordance with object-oriented programming.
 - Follow clean code principles.
 - Print all of the results in the main function in a readable way.
+
+### Output:
+![img.png](img.png)
